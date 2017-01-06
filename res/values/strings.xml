@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="button_about">About</string>
+    <string name="result">result</string>
+    <string name="about">About us</string>
+    <string name="about_dev">About developer</string>
+    <string name="dev_name">Shubham Sharma</string>
+    <string name="about_dev_content">
+        \nSemicolon Labs
+        \nwww.github.com/shubham1172
+        \nemail: shubhamsharma1172@gmail.com
+        \nphone: 8272980776
+    </string>
+    <string name="about_app">About app</string>
+    <string name="about_app_content">
+        \nCalculator is an android app developed for learning purpose only.
+        It intends to harm no business or individual.
+    </string>
+</resources>
